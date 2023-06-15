@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>QJW Blog</title>
-    <link>http://LQJW.github.io/</link>
-    <description>Recent content on QJW Blog</description>
+    <title>Posts on QJW Blog</title>
+    <link>http://LQJW.github.io/post/</link>
+    <description>Recent content in Posts on QJW Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://LQJW.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://LQJW.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
       <link>http://LQJW.github.io/Hello/</link>

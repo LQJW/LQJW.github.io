@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on QJW Blog</title>
     <link>http://LQJW.github.io/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on QJW Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://LQJW.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://LQJW.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>http://LQJW.github.io/tags/hello/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://LQJW.github.io/tags/hello/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

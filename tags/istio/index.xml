@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Istio on QJW Blog</title>
+    <link>http://LQJW.github.io/tags/istio/</link>
+    <description>Recent content in Istio on QJW Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://LQJW.github.io/tags/istio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Istio v1aplha3 routing API介绍(译文）</title>
+      <link>http://LQJW.github.io/Hello/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://LQJW.github.io/Hello/</guid>
+      <description>Hello</description>
+    </item>
+    
+  </channel>
+</rss>
